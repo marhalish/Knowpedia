@@ -1,6 +1,8 @@
 # Knowpedia Platform Overview
 Knowpedia is an online open knowledge-network enabling people worldwide to publish knowledge of any topic in exchange for community upvotes (likes) earning rewards! This platform is a multilingual worldwide platform. It is highly reliable and openly accessible globally because it’s built on the dependable Steem blockchain with a 100% uptime (as of January 2019).
+
 This platform is quickly becoming the next generation in knowledge-sharing platform. Driving this growth is our active community of authors, moderators, curators (people reviewing entries), and readers. Every day more people of diverse interest and backgrounds discover the true power of Knowpedia. In using the knowledge-sharing platform, peers may educate and connect with other from across the world. Before logging in, readers may browse the collection of Knowpedia entries published by users just like them. To ensure quality, our exceptional moderation team reviews each entry. Therefore, anyone can learn about any topic from slang words and music to science and philosophy. 
+
 In fact, Knowpedia is so flexible that a user could log in, search any topic such as pizza and instantly publish a Knowpedia entry under the topic “pizza”. Next, their entry and others are all listed on the pizza topic page in a feed. Here other users can comment, discuss, and up-vote any entry they see. After a week of their entry being published, the author and up-voters are all given their weekly earned rewards from publishing and upvoting entries. Although, this just one example showing a fraction of the possibilities. The beginning of your Knowpedia journey starts with just a search. Welcome to Knowpedia!
 
 # Steem Blockchain Overview
